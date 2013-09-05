@@ -4,6 +4,7 @@ logo:             site-logo.png
 disqus_shortname: craigbooker
 #Comment out url when working locally to resolve base urls correctly
 #url:              http://your-website.com
+baseurl:          craigbooker.github.io/jekyll
 
 # Owner/author information
 owner:
